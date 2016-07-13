@@ -1,0 +1,6 @@
+[package]
+name = "parameterized_tests"
+version = "0.2.0"
+authors = ["icasdri <icasdri@gmail.com>"]
+
+[dependencies]
